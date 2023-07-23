@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.bg-container {
+  width: 100vw;
+  display: flex;
+}
+.event-head {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}
+.events-container {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+
+  padding: 20px;
+}
+.heading-container {
+  background-color: #64748b;
+  padding: 30px;
+  width: 55%;
+}
+.event-rege-container {
+  display: flex;
+}
+.registration-container {
+  width: 40%;
+  background-color: #f8fafc;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
